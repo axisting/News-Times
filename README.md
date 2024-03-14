@@ -51,3 +51,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Volkan Demir - [Personal Blog](https://volkan.axisting.com/)   ([Linkedin](https://www.linkedin.com/in/volkan-demir-242157119/))   
 
 Project Link: [https://github.com/axisting/News-Times](https://github.com/axisting/News-Times)   
+
+## App Screens
+
+![Screens](https://github.com/axisting/News-Times/assets/10004117/12c34efc-6aaa-4994-8aab-451a798799f8)
