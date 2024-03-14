@@ -1,0 +1,16 @@
+{
+    "@@locale" : "tr",
+    "turkish": "Türkçe",
+    "english": "İngilizce",
+    "server_failure": "Server hatası oluştu",
+    "cache_failure": "Çerez hatası oluştu",
+    "null_pointer_failure": "Bir şeyler ters gitti",
+    "failure": "Bir şeyler ters gitti",
+    "empty_list" : "Boş Liste",
+
+    "home" : "Ana Sayfa",
+    "explore" : "Keşfet",
+    "profile" : "Profil",
+    "most_popular_news" : "En Popüler Haberler"
+
+}

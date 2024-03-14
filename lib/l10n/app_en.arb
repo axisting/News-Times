@@ -1,0 +1,18 @@
+{
+    "@@locale" : "en",
+    
+    "english": "English",
+    "turkish": "Turkish",
+    "server_failure": "A server error occurred",
+    "cache_failure": "A cache error occurred",
+    "null_pointer_failure": "Something is wrong",
+    "failure": "Something is wrong",
+    "empty_list" : "Empty List",
+
+
+    "home" : "Home",
+    "explore" : "Explore",
+    "profile" : "Profile",
+    "most_popular_news" : "Most Popular News"
+  
+  }

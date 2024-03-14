@@ -1,0 +1,69 @@
+Presentation: UI & UX
+    - Pages
+    - Provider (State management)
+    - Widgets
+
+Business: Security, caches, logs, exeptions, validations
+    - entities
+    - repositories
+    - usecases
+
+Data: Internal & external data, Api
+    - datasources
+    - models
+    - repositories
+
+Api Used: https://axisting.com/
+
+
+
+
+
+
+lib/
+|-- core/
+|   |-- errors/
+|   |   |-- failure.dart
+|   |   |-- exception.dart
+|   |-- usecases/
+|   |   |-- usecase.dart
+|   |-- entities/
+|   |   |-- entity.dart
+|   |-- repositories/
+|   |   |-- repository.dart
+|   |-- services/
+|   |   |-- service.dart
+|   |-- constants/
+|   |   |-- constants.dart
+|   |-- constants/
+|   |   |-- constants.dart
+|
+|-- features/
+|   |-- feature_module/
+|   |   |-- business/
+|   |   |   |-- entities/
+|   |   |   |   |-- feature_entity.dart
+|   |   |   |
+|   |   |   |-- repositories/
+|   |   |   |   |-- feature_repository.dart
+|   |   |   |
+|   |   |   |-- usecases/
+|   |   |   |   |-- feature_usecase.dart
+|   |   |-- data/
+|   |   |   |-- datasources/
+|   |   |   |   |-- remote_datasource.dart
+|   |   |   |   |-- local_datasource.dart
+|   |   |   |
+|   |   |   |-- models/
+|   |   |   |   |-- feature_model.dart
+|   |   |-- presentation/
+|   |   |   |-- providers/
+|   |   |   |   |-- feature_provider.dart
+|   |   |   |
+|   |   |   |-- pages/
+|   |   |   |   |-- feature_page.dart
+|   |   |   |
+|   |   |   |-- widgets/
+|   |   |   |   |-- feature_widget.dart
+|
+|-- main.dart
