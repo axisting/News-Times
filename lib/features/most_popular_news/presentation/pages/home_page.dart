@@ -23,7 +23,7 @@ class _HomePageState extends State<HomePage> {
 
   @override
   Widget build(BuildContext context) {
-    context.read<MostPopularNewsBloc>().add(FetchMostPopularNewsEvent());
+    
     return Padding(
       padding: const EdgeInsets.all(ViewConstants.smallPadding),
       child: BlocBuilder<MostPopularNewsBloc, MostPopularNewsState>(
